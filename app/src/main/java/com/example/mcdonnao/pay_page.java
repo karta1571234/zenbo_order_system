@@ -36,7 +36,7 @@ public class pay_page extends AppCompatActivity {
         TextView view_total=findViewById(R.id.textView9);
         view_total.setText("$"+String.valueOf(pay_price));
         TextView view_count=findViewById(R.id.textView13);
-        view_count.setText(String.valueOf(count)+"份套餐");
+        view_count.setText(String.valueOf(count)+"份套餐s");
 
         Intent intent = new Intent(this,MainActivity.class);
         Button btn_ok=findViewById(R.id.button8);
