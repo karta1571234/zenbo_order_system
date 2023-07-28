@@ -1,6 +1,6 @@
 # zenbo_order_system
 Order system with zenbo robot
-歡迎來到我的YouTube頻道！在這部影片中，我將展示一個：Zenbo機器人與Android點餐系統的結合。這個專案使用android studio將點餐系統使用JAVA撰寫出來，並使用zenbo SDK控制機器人，導出APK後安裝在zenbo上。
+我將展示一個：Zenbo機器人與Android點餐系統的結合。這個專案使用android studio將點餐系統使用JAVA撰寫出來，並使用zenbo SDK控制機器人，導出APK後安裝在zenbo上。
 
 點餐系統是現代餐廳業務中的重要組成部分，而Zenbo機器人則是一個機器人助手，具備語音和動作控制能力。透過這個技術的結合，可以實現一個互動且有趣的點餐體驗。
 
@@ -15,7 +15,7 @@ Order system with zenbo robot
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Welcome to my YouTube channel! In this video, I will demonstrate the perfect integration of Zenbo Robot with an Android ordering system. This project involves developing the ordering system using Android Studio with Java, and controlling the robot using Zenbo SDK by installing the APK on Zenbo.
+I will demonstrate the perfect integration of Zenbo Robot with an Android ordering system. This project involves developing the ordering system using Android Studio with Java, and controlling the robot using Zenbo SDK by installing the APK on Zenbo.
 
 The ordering system plays a vital role in modern restaurant businesses, while Zenbo Robot serves as an assistant with voice and motion control capabilities. Through this combination of technologies, we can achieve an interactive and enjoyable ordering experience.
 
